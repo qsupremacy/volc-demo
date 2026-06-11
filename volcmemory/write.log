@@ -1,0 +1,139 @@
+[32m2026-06-11 15:19:33[0m | [1mINFO[0m | [36mconfig.py:50[0m - No `.env` file found.
+[32m2026-06-11 15:19:33[0m | [1mINFO[0m | [36mconfig.py:132[0m - Find `config.yaml` file in /home/ubuntu/config.yaml
+[32m2026-06-11 15:19:33[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.telemetry.tracing tracer with VeADK tracer.
+[32m2026-06-11 15:19:33[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.telemetry tracer with VeADK tracer.
+[32m2026-06-11 15:19:33[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.flows.llm_flows.functions tracer with VeADK tracer.
+[32m2026-06-11 15:19:33[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.apps.compaction tracer with VeADK tracer.
+[32m2026-06-11 15:19:33[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.flows.llm_flows.base_llm_flow tracer with VeADK tracer.
+[32m2026-06-11 15:19:33[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.runners tracer with VeADK tracer.
+[32m2026-06-11 15:19:34[0m | [1mINFO[0m | [36mark_veauth.py:25[0m - Fetching ARK token...
+/home/ubuntu/volc-demo/.venv/lib/python3.12/site-packages/veadk/utils/volcengine_sign.py:205: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
+[32m2026-06-11 15:19:34[0m | [33m[1mWARNING[0m | [36mark_veauth.py:57[0m - By default, VeADK fetches the first API Key in the list.
+[32m2026-06-11 15:19:34[0m | [1mINFO[0m | [36mark_veauth.py:58[0m - Try to fetch ARK API Key with id=1545069, name=api-key-haolipeng
+[32m2026-06-11 15:19:34[0m | [1mINFO[0m | [36mark_veauth.py:78[0m - Successfully fetched ARK API Key (starts with 4960ff2a).
+[32m2026-06-11 15:19:34[0m | [1mINFO[0m | [36magent.py:219[0m - Model extra config: {'extra_headers': {'x-is-encrypted': 'true', 'veadk-source': 'veadk', 'veadk-version': '0.5.37', 'User-Agent': 'VeADK/0.5.37', 'X-Client-Request-Id': 'veadk/0.5.37'}, 'extra_body': {'caching': {'type': 'enabled'}, 'expire_at': 1781165973}}
+[32m2026-06-11 15:19:34[0m | [34m[1mDEBUG[0m | [36magent.py:258[0m - LiteLLM client created with config: {'extra_headers': {'x-is-encrypted': 'true', 'veadk-source': 'veadk', 'veadk-version': '0.5.37', 'User-Agent': 'VeADK/0.5.37', 'X-Client-Request-Id': 'veadk/0.5.37'}, 'extra_body': {'caching': {'type': 'enabled'}, 'expire_at': 1781165973}}
+[32m2026-06-11 15:19:34[0m | [1mINFO[0m | [36magent.py:602[0m - No exporter enabled by env, skip prepare tracers.
+[32m2026-06-11 15:19:34[0m | [1mINFO[0m | [36magent.py:404[0m - VeADK version: 0.5.37
+[32m2026-06-11 15:19:34[0m | [1mINFO[0m | [36magent.py:406[0m - Agent `Agent` init done.
+[32m2026-06-11 15:19:34[0m | [34m[1mDEBUG[0m | [36magent.py:407[0m - Agent: {'name': 'Agent', 'tools': [], 'id': 'db893610', 'model_name': 'doubao-seed-1-8-251228', 'model_api_base': 'https://ark.cn-beijing.volces.com/api/v3/', 'skills': []}
+[32m2026-06-11 15:19:34[0m | [33m[1mWARNING[0m | [36mrunner.py:401[0m - No short term memory or session service provided, use an in-memory one instead.
+[32m2026-06-11 15:19:34[0m | [1mINFO[0m | [36mrunner.py:420[0m - No long term memory provided.
+/home/ubuntu/volc-demo/.venv/lib/python3.12/site-packages/websockets/legacy/__init__.py:6: DeprecationWarning: websockets.legacy is deprecated; see https://websockets.readthedocs.io/en/stable/howto/upgrade.html for upgrade instructions
+  warnings.warn(  # deprecated in 14.0 - 2024-11-09
+/home/ubuntu/volc-demo/.venv/lib/python3.12/site-packages/uvicorn/protocols/websockets/websockets_impl.py:17: DeprecationWarning: websockets.server.WebSocketServerProtocol is deprecated
+  from websockets.server import WebSocketServerProtocol
+INFO:     Started server process [2639226]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+/home/ubuntu/volc-demo/.venv/lib/python3.12/site-packages/mem0/client/utils.py:38: DeprecationWarning: output_format='v1.0' is deprecated therefore setting it to 'v1.1' by default. Check out the docs for more information: https://docs.mem0.ai/platform/quickstart#4-1-create-memories
+  return func(*args, **kwargs)
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-100, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-101, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-102, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-103, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-104, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-105, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-106, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-107, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-108, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-109, session_id: local_session, elapsed: 0.130s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-110, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-111, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-112, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-113, session_id: local_session, elapsed: 0.046s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-114, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-115, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-116, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-117, session_id: local_session, elapsed: 0.046s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-118, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-119, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-120, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-121, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-122, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-123, session_id: local_session, elapsed: 0.046s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-124, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-125, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-126, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-127, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-128, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-129, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-130, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-131, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-132, session_id: local_session, elapsed: 0.046s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-133, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-134, session_id: local_session, elapsed: 0.046s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-135, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-136, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-137, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-138, session_id: local_session, elapsed: 0.140s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-139, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-140, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-141, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-142, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-143, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-144, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-145, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-146, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-147, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-148, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-149, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-150, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-151, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-152, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-153, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-154, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-155, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-156, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-157, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-158, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-159, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-160, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-161, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-162, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-163, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-164, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-165, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-166, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-167, session_id: local_session, elapsed: 0.042s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-168, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-169, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-170, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-171, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-172, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-173, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-174, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-175, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-176, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-177, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-178, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-179, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-180, session_id: local_session, elapsed: 0.109s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-181, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-182, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-183, session_id: local_session, elapsed: 0.106s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-184, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-185, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-186, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-187, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-188, session_id: local_session, elapsed: 0.128s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-189, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-190, session_id: local_session, elapsed: 0.071s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-191, session_id: local_session, elapsed: 0.045s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-192, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-193, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-194, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-195, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-196, session_id: local_session, elapsed: 0.044s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-197, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-198, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-199, session_id: local_session, elapsed: 0.043s
+INFO:__main__:write memory with prompt: 讲一个笑话！, user_id: user-200, session_id: local_session, elapsed: 0.044s
+INFO:__main__:Run response: all
+INFO:     127.0.0.1:44880 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2639226]

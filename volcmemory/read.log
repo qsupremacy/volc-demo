@@ -1,0 +1,147 @@
+[32m2026-06-11 15:17:18[0m | [1mINFO[0m | [36mconfig.py:50[0m - No `.env` file found.
+[32m2026-06-11 15:17:18[0m | [1mINFO[0m | [36mconfig.py:132[0m - Find `config.yaml` file in /home/ubuntu/config.yaml
+[32m2026-06-11 15:17:19[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.telemetry.tracing tracer with VeADK tracer.
+[32m2026-06-11 15:17:19[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.telemetry tracer with VeADK tracer.
+[32m2026-06-11 15:17:19[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.flows.llm_flows.functions tracer with VeADK tracer.
+[32m2026-06-11 15:17:19[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.apps.compaction tracer with VeADK tracer.
+[32m2026-06-11 15:17:19[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.flows.llm_flows.base_llm_flow tracer with VeADK tracer.
+[32m2026-06-11 15:17:19[0m | [34m[1mDEBUG[0m | [36mpatches.py:118[0m - Patch google.adk.runners tracer with VeADK tracer.
+[32m2026-06-11 15:17:20[0m | [1mINFO[0m | [36mark_veauth.py:25[0m - Fetching ARK token...
+/home/ubuntu/volc-demo/.venv/lib/python3.12/site-packages/veadk/utils/volcengine_sign.py:205: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
+[32m2026-06-11 15:17:20[0m | [33m[1mWARNING[0m | [36mark_veauth.py:57[0m - By default, VeADK fetches the first API Key in the list.
+[32m2026-06-11 15:17:20[0m | [1mINFO[0m | [36mark_veauth.py:58[0m - Try to fetch ARK API Key with id=1545069, name=api-key-haolipeng
+[32m2026-06-11 15:17:20[0m | [1mINFO[0m | [36mark_veauth.py:78[0m - Successfully fetched ARK API Key (starts with 4960ff2a).
+[32m2026-06-11 15:17:20[0m | [1mINFO[0m | [36magent.py:219[0m - Model extra config: {'extra_headers': {'x-is-encrypted': 'true', 'veadk-source': 'veadk', 'veadk-version': '0.5.37', 'User-Agent': 'VeADK/0.5.37', 'X-Client-Request-Id': 'veadk/0.5.37'}, 'extra_body': {'caching': {'type': 'enabled'}, 'expire_at': 1781165838}}
+[32m2026-06-11 15:17:20[0m | [34m[1mDEBUG[0m | [36magent.py:258[0m - LiteLLM client created with config: {'extra_headers': {'x-is-encrypted': 'true', 'veadk-source': 'veadk', 'veadk-version': '0.5.37', 'User-Agent': 'VeADK/0.5.37', 'X-Client-Request-Id': 'veadk/0.5.37'}, 'extra_body': {'caching': {'type': 'enabled'}, 'expire_at': 1781165838}}
+[32m2026-06-11 15:17:20[0m | [1mINFO[0m | [36magent.py:602[0m - No exporter enabled by env, skip prepare tracers.
+[32m2026-06-11 15:17:20[0m | [1mINFO[0m | [36magent.py:404[0m - VeADK version: 0.5.37
+[32m2026-06-11 15:17:20[0m | [1mINFO[0m | [36magent.py:406[0m - Agent `Agent` init done.
+[32m2026-06-11 15:17:20[0m | [34m[1mDEBUG[0m | [36magent.py:407[0m - Agent: {'name': 'Agent', 'tools': [], 'id': '8ecad05c', 'model_name': 'doubao-seed-1-8-251228', 'model_api_base': 'https://ark.cn-beijing.volces.com/api/v3/', 'skills': []}
+[32m2026-06-11 15:17:20[0m | [33m[1mWARNING[0m | [36mrunner.py:401[0m - No short term memory or session service provided, use an in-memory one instead.
+[32m2026-06-11 15:17:20[0m | [1mINFO[0m | [36mrunner.py:420[0m - No long term memory provided.
+/home/ubuntu/volc-demo/.venv/lib/python3.12/site-packages/websockets/legacy/__init__.py:6: DeprecationWarning: websockets.legacy is deprecated; see https://websockets.readthedocs.io/en/stable/howto/upgrade.html for upgrade instructions
+  warnings.warn(  # deprecated in 14.0 - 2024-11-09
+/home/ubuntu/volc-demo/.venv/lib/python3.12/site-packages/uvicorn/protocols/websockets/websockets_impl.py:17: DeprecationWarning: websockets.server.WebSocketServerProtocol is deprecated
+  from websockets.server import WebSocketServerProtocol
+INFO:     Started server process [2638508]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:__main__:search memory: user_id: user-100, session_id: local_session, memories_count: 2, elapsed: 0.179s
+INFO:__main__:search memory: user_id: user-101, session_id: local_session, memories_count: 2, elapsed: 0.177s
+INFO:__main__:search memory: user_id: user-102, session_id: local_session, memories_count: 2, elapsed: 0.157s
+INFO:__main__:search memory: user_id: user-103, session_id: local_session, memories_count: 2, elapsed: 0.260s
+INFO:__main__:search memory: user_id: user-104, session_id: local_session, memories_count: 2, elapsed: 0.258s
+INFO:__main__:search memory: user_id: user-105, session_id: local_session, memories_count: 2, elapsed: 0.186s
+INFO:__main__:search memory: user_id: user-106, session_id: local_session, memories_count: 2, elapsed: 0.148s
+INFO:__main__:search memory: user_id: user-107, session_id: local_session, memories_count: 2, elapsed: 0.252s
+INFO:__main__:search memory: user_id: user-108, session_id: local_session, memories_count: 2, elapsed: 0.234s
+INFO:__main__:search memory: user_id: user-109, session_id: local_session, memories_count: 2, elapsed: 0.186s
+INFO:__main__:search memory: user_id: user-110, session_id: local_session, memories_count: 2, elapsed: 0.190s
+INFO:__main__:search memory: user_id: user-111, session_id: local_session, memories_count: 2, elapsed: 0.219s
+INFO:__main__:search memory: user_id: user-112, session_id: local_session, memories_count: 2, elapsed: 0.190s
+INFO:__main__:search memory: user_id: user-113, session_id: local_session, memories_count: 2, elapsed: 0.306s
+INFO:__main__:search memory: user_id: user-114, session_id: local_session, memories_count: 2, elapsed: 0.210s
+INFO:__main__:search memory: user_id: user-115, session_id: local_session, memories_count: 2, elapsed: 0.189s
+INFO:__main__:search memory: user_id: user-116, session_id: local_session, memories_count: 2, elapsed: 0.234s
+INFO:__main__:search memory: user_id: user-117, session_id: local_session, memories_count: 2, elapsed: 0.208s
+INFO:__main__:search memory: user_id: user-118, session_id: local_session, memories_count: 2, elapsed: 0.160s
+INFO:__main__:search memory: user_id: user-119, session_id: local_session, memories_count: 2, elapsed: 0.219s
+INFO:__main__:search memory: user_id: user-120, session_id: local_session, memories_count: 2, elapsed: 0.245s
+INFO:__main__:search memory: user_id: user-121, session_id: local_session, memories_count: 2, elapsed: 0.238s
+INFO:__main__:search memory: user_id: user-122, session_id: local_session, memories_count: 2, elapsed: 0.273s
+INFO:__main__:search memory: user_id: user-123, session_id: local_session, memories_count: 2, elapsed: 0.158s
+INFO:__main__:search memory: user_id: user-124, session_id: local_session, memories_count: 2, elapsed: 0.175s
+INFO:__main__:search memory: user_id: user-125, session_id: local_session, memories_count: 2, elapsed: 0.278s
+INFO:__main__:search memory: user_id: user-126, session_id: local_session, memories_count: 2, elapsed: 0.201s
+INFO:__main__:search memory: user_id: user-127, session_id: local_session, memories_count: 2, elapsed: 0.269s
+INFO:__main__:search memory: user_id: user-128, session_id: local_session, memories_count: 2, elapsed: 0.201s
+INFO:__main__:search memory: user_id: user-129, session_id: local_session, memories_count: 2, elapsed: 0.251s
+INFO:__main__:search memory: user_id: user-130, session_id: local_session, memories_count: 2, elapsed: 0.202s
+INFO:__main__:search memory: user_id: user-131, session_id: local_session, memories_count: 2, elapsed: 0.242s
+INFO:__main__:search memory: user_id: user-132, session_id: local_session, memories_count: 2, elapsed: 0.186s
+INFO:__main__:search memory: user_id: user-133, session_id: local_session, memories_count: 2, elapsed: 0.183s
+INFO:__main__:search memory: user_id: user-134, session_id: local_session, memories_count: 2, elapsed: 0.235s
+INFO:__main__:search memory: user_id: user-135, session_id: local_session, memories_count: 2, elapsed: 0.234s
+INFO:__main__:search memory: user_id: user-136, session_id: local_session, memories_count: 2, elapsed: 0.158s
+INFO:__main__:search memory: user_id: user-137, session_id: local_session, memories_count: 2, elapsed: 0.375s
+INFO:__main__:search memory: user_id: user-138, session_id: local_session, memories_count: 2, elapsed: 0.179s
+INFO:__main__:search memory: user_id: user-139, session_id: local_session, memories_count: 2, elapsed: 0.300s
+INFO:__main__:search memory: user_id: user-140, session_id: local_session, memories_count: 2, elapsed: 0.174s
+INFO:__main__:search memory: user_id: user-141, session_id: local_session, memories_count: 2, elapsed: 0.186s
+INFO:__main__:search memory: user_id: user-142, session_id: local_session, memories_count: 2, elapsed: 0.197s
+INFO:__main__:search memory: user_id: user-143, session_id: local_session, memories_count: 2, elapsed: 0.171s
+INFO:__main__:search memory: user_id: user-144, session_id: local_session, memories_count: 2, elapsed: 0.162s
+INFO:__main__:search memory: user_id: user-145, session_id: local_session, memories_count: 2, elapsed: 0.243s
+INFO:__main__:search memory: user_id: user-146, session_id: local_session, memories_count: 2, elapsed: 0.282s
+INFO:__main__:search memory: user_id: user-147, session_id: local_session, memories_count: 2, elapsed: 0.205s
+INFO:__main__:search memory: user_id: user-148, session_id: local_session, memories_count: 2, elapsed: 0.183s
+INFO:__main__:search memory: user_id: user-149, session_id: local_session, memories_count: 2, elapsed: 0.261s
+INFO:__main__:search memory: user_id: user-150, session_id: local_session, memories_count: 2, elapsed: 0.193s
+INFO:__main__:search memory: user_id: user-151, session_id: local_session, memories_count: 2, elapsed: 0.185s
+INFO:__main__:search memory: user_id: user-152, session_id: local_session, memories_count: 2, elapsed: 0.274s
+INFO:__main__:search memory: user_id: user-153, session_id: local_session, memories_count: 2, elapsed: 0.249s
+INFO:__main__:search memory: user_id: user-154, session_id: local_session, memories_count: 2, elapsed: 0.223s
+INFO:__main__:search memory: user_id: user-155, session_id: local_session, memories_count: 2, elapsed: 0.200s
+INFO:__main__:search memory: user_id: user-156, session_id: local_session, memories_count: 2, elapsed: 0.151s
+INFO:__main__:search memory: user_id: user-157, session_id: local_session, memories_count: 2, elapsed: 0.246s
+INFO:__main__:search memory: user_id: user-158, session_id: local_session, memories_count: 2, elapsed: 0.320s
+INFO:__main__:search memory: user_id: user-159, session_id: local_session, memories_count: 2, elapsed: 0.254s
+INFO:__main__:search memory: user_id: user-160, session_id: local_session, memories_count: 2, elapsed: 0.166s
+INFO:__main__:search memory: user_id: user-161, session_id: local_session, memories_count: 2, elapsed: 0.176s
+INFO:__main__:search memory: user_id: user-162, session_id: local_session, memories_count: 2, elapsed: 0.275s
+INFO:__main__:search memory: user_id: user-163, session_id: local_session, memories_count: 2, elapsed: 0.226s
+INFO:__main__:search memory: user_id: user-164, session_id: local_session, memories_count: 2, elapsed: 0.168s
+INFO:__main__:search memory: user_id: user-165, session_id: local_session, memories_count: 2, elapsed: 0.168s
+INFO:__main__:search memory: user_id: user-166, session_id: local_session, memories_count: 2, elapsed: 0.239s
+INFO:__main__:search memory: user_id: user-167, session_id: local_session, memories_count: 2, elapsed: 0.167s
+INFO:__main__:search memory: user_id: user-168, session_id: local_session, memories_count: 2, elapsed: 0.171s
+INFO:__main__:search memory: user_id: user-169, session_id: local_session, memories_count: 2, elapsed: 0.296s
+INFO:__main__:search memory: user_id: user-170, session_id: local_session, memories_count: 2, elapsed: 0.235s
+INFO:__main__:search memory: user_id: user-171, session_id: local_session, memories_count: 2, elapsed: 0.206s
+INFO:__main__:search memory: user_id: user-172, session_id: local_session, memories_count: 2, elapsed: 0.223s
+INFO:__main__:search memory: user_id: user-173, session_id: local_session, memories_count: 2, elapsed: 0.159s
+INFO:__main__:search memory: user_id: user-174, session_id: local_session, memories_count: 2, elapsed: 0.148s
+INFO:__main__:search memory: user_id: user-175, session_id: local_session, memories_count: 2, elapsed: 0.196s
+INFO:__main__:search memory: user_id: user-176, session_id: local_session, memories_count: 2, elapsed: 0.241s
+INFO:__main__:search memory: user_id: user-177, session_id: local_session, memories_count: 2, elapsed: 0.257s
+INFO:__main__:search memory: user_id: user-178, session_id: local_session, memories_count: 2, elapsed: 0.157s
+INFO:__main__:search memory: user_id: user-179, session_id: local_session, memories_count: 2, elapsed: 0.163s
+INFO:__main__:search memory: user_id: user-180, session_id: local_session, memories_count: 2, elapsed: 0.207s
+INFO:__main__:search memory: user_id: user-181, session_id: local_session, memories_count: 2, elapsed: 0.210s
+INFO:__main__:search memory: user_id: user-182, session_id: local_session, memories_count: 2, elapsed: 0.169s
+INFO:__main__:search memory: user_id: user-183, session_id: local_session, memories_count: 2, elapsed: 0.200s
+INFO:__main__:search memory: user_id: user-184, session_id: local_session, memories_count: 2, elapsed: 0.275s
+INFO:__main__:search memory: user_id: user-185, session_id: local_session, memories_count: 2, elapsed: 0.222s
+INFO:__main__:search memory: user_id: user-186, session_id: local_session, memories_count: 2, elapsed: 0.194s
+INFO:__main__:search memory: user_id: user-187, session_id: local_session, memories_count: 2, elapsed: 0.196s
+INFO:__main__:search memory: user_id: user-188, session_id: local_session, memories_count: 2, elapsed: 0.199s
+INFO:__main__:search memory: user_id: user-189, session_id: local_session, memories_count: 2, elapsed: 0.187s
+INFO:__main__:search memory: user_id: user-190, session_id: local_session, memories_count: 2, elapsed: 0.247s
+INFO:__main__:search memory: user_id: user-191, session_id: local_session, memories_count: 2, elapsed: 0.172s
+INFO:__main__:search memory: user_id: user-192, session_id: local_session, memories_count: 2, elapsed: 0.354s
+INFO:__main__:search memory: user_id: user-193, session_id: local_session, memories_count: 2, elapsed: 0.168s
+INFO:__main__:search memory: user_id: user-194, session_id: local_session, memories_count: 2, elapsed: 0.171s
+INFO:__main__:search memory: user_id: user-195, session_id: local_session, memories_count: 2, elapsed: 0.185s
+INFO:__main__:search memory: user_id: user-196, session_id: local_session, memories_count: 2, elapsed: 0.190s
+INFO:__main__:search memory: user_id: user-197, session_id: local_session, memories_count: 2, elapsed: 0.277s
+INFO:__main__:search memory: user_id: user-198, session_id: local_session, memories_count: 2, elapsed: 0.179s
+INFO:__main__:search memory: user_id: user-199, session_id: local_session, memories_count: 2, elapsed: 0.166s
+INFO:__main__:search memory: user_id: user-200, session_id: local_session, memories_count: 2, elapsed: 0.186s
+INFO:__main__:Run response: all
+INFO:     127.0.0.1:40616 - "POST /invoke HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2638508]
+Exception ignored in atexit callback: <bound method Client.join of <posthog.Posthog object at 0x7e5263fdb860>>
+Traceback (most recent call last):
+  File "/home/ubuntu/volc-demo/.venv/lib/python3.12/site-packages/posthog/client.py", line 1427, in join
+    consumer.join()
+  File "/home/ubuntu/.local/share/uv/python/cpython-3.12.0-linux-x86_64-gnu/lib/python3.12/threading.py", line 1126, in join
+    self._wait_for_tstate_lock()
+  File "/home/ubuntu/.local/share/uv/python/cpython-3.12.0-linux-x86_64-gnu/lib/python3.12/threading.py", line 1146, in _wait_for_tstate_lock
+    if lock.acquire(block, timeout):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt: 
