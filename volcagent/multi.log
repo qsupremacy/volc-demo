@@ -852,6 +852,34 @@ real    0m4.574s
 user    0m1.191s
 sys     0m0.078s
 
+real    0m12.640s
+user    0m1.198s
+sys     0m0.087s
+
+real    0m12.756s
+user    0m1.202s
+sys     0m0.082s
+
+real    0m12.790s
+user    0m1.197s
+sys     0m0.103s
+
+real    0m12.801s
+user    0m1.196s
+sys     0m0.088s
+
+real    0m12.819s
+user    0m1.183s
+sys     0m0.091s
+
+real    0m12.833s
+user    0m1.193s
+sys     0m0.082s
+
+real    0m12.852s
+user    0m1.151s
+sys     0m0.104s
+
 real    0m4.590s
 user    0m1.189s
 sys     0m0.073s
