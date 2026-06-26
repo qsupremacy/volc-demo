@@ -1,568 +1,200 @@
-[2026-06-11 10:57:52] Starting request 1
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '053fe642-7137-4f53-8f82-5e67a224032e'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:57:53] Finished request 1 - elapsed: 1077 ms
-[2026-06-11 10:57:53] Starting request 2
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '7a4b86b6-d1e5-4518-a4d5-92cdd02f90b5'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:57:54] Finished request 2 - elapsed: 1034 ms
-[2026-06-11 10:57:54] Starting request 3
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'd7a7365c-522f-431e-9083-7ef5d4b001a1'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:57:55] Finished request 3 - elapsed: 1134 ms
-[2026-06-11 10:57:55] Starting request 4
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a43410e8-2f99-4d42-9243-f0b86657fb9a'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:57:56] Finished request 4 - elapsed: 988 ms
-[2026-06-11 10:57:56] Starting request 5
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a471be1e-03fc-42fa-8e15-1b2b3f7a2049'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:57:57] Finished request 5 - elapsed: 972 ms
-[2026-06-11 10:57:57] Starting request 6
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'b04fee63-8da5-4d1e-87ad-a220592baa9d'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:57:58] Finished request 6 - elapsed: 1099 ms
-[2026-06-11 10:57:58] Starting request 7
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '26eaef53-d085-4aaa-a4c2-6e44032c6ba7'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:57:59] Finished request 7 - elapsed: 1028 ms
-[2026-06-11 10:57:59] Starting request 8
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '5fe685a2-9412-47d2-92b1-862e86214d62'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:00] Finished request 8 - elapsed: 946 ms
-[2026-06-11 10:58:00] Starting request 9
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'fd30164b-b49c-4cc2-a149-e70888ddb61b'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:01] Finished request 9 - elapsed: 1019 ms
-[2026-06-11 10:58:01] Starting request 10
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '9b2e5d3c-6f2f-436e-8ab3-d2ba9be2086c'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:02] Finished request 10 - elapsed: 1004 ms
-[2026-06-11 10:58:02] Starting request 11
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '46f94f67-8bb6-44df-865a-49854604e7c0'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:03] Finished request 11 - elapsed: 1075 ms
-[2026-06-11 10:58:03] Starting request 12
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'ff969375-5ba5-4e3d-978d-64881ddbbbd9'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:05] Finished request 12 - elapsed: 1192 ms
-[2026-06-11 10:58:05] Starting request 13
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a57216a5-6607-40f5-9b16-83f9d2077fd5'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:06] Finished request 13 - elapsed: 1119 ms
-[2026-06-11 10:58:06] Starting request 14
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '100158ef-feaf-4d04-9b60-02b84b319a06'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:07] Finished request 14 - elapsed: 991 ms
-[2026-06-11 10:58:07] Starting request 15
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a0100351-7a50-4e85-8c42-40afc7bd1479'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:08] Finished request 15 - elapsed: 1017 ms
-[2026-06-11 10:58:08] Starting request 16
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'f960e80a-ced0-473a-ac09-a69cccb61fc0'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:09] Finished request 16 - elapsed: 1135 ms
-[2026-06-11 10:58:09] Starting request 17
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '19f7a667-29f1-42b0-b211-c392152fb4ec'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:10] Finished request 17 - elapsed: 971 ms
-[2026-06-11 10:58:10] Starting request 18
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'dd16e5fe-2050-467d-9f05-c4dc64a4e420'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:11] Finished request 18 - elapsed: 983 ms
-[2026-06-11 10:58:11] Starting request 19
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '7d6e07b0-39a5-4c4e-9982-f0a0df7ea6bd'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:12] Finished request 19 - elapsed: 1049 ms
-[2026-06-11 10:58:12] Starting request 20
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '68afb82b-fcc4-4a55-8159-c9ab202e597c'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:13] Finished request 20 - elapsed: 1002 ms
-[2026-06-11 10:58:13] Starting request 21
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'fbb66228-546e-434e-ba5a-3d6314dc8f57'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:14] Finished request 21 - elapsed: 997 ms
-[2026-06-11 10:58:14] Starting request 22
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '6d9da952-8476-4dc7-969b-730b66b63cb1'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:15] Finished request 22 - elapsed: 877 ms
-[2026-06-11 10:58:15] Starting request 23
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a427f58c-39c5-445b-b859-e91c5c070908'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:16] Finished request 23 - elapsed: 996 ms
-[2026-06-11 10:58:16] Starting request 24
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a7495d15-9652-478f-98c9-be93a4cebf8e'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:17] Finished request 24 - elapsed: 1165 ms
-[2026-06-11 10:58:17] Starting request 25
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '88a46f4d-405b-4e39-a2c6-11b57dcab014'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:18] Finished request 25 - elapsed: 1173 ms
-[2026-06-11 10:58:18] Starting request 26
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '2b9090d1-3722-42e8-9eac-8f9f858cef3c'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:19] Finished request 26 - elapsed: 888 ms
-[2026-06-11 10:58:19] Starting request 27
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '8792875f-db13-47ec-81e8-2cb21def50dd'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:20] Finished request 27 - elapsed: 1014 ms
-[2026-06-11 10:58:20] Starting request 28
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '1214f167-61c5-43a7-9d49-aa822d043e93'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:21] Finished request 28 - elapsed: 916 ms
-[2026-06-11 10:58:21] Starting request 29
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'c39e7370-2eca-4bac-80a3-c628443b1270'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:22] Finished request 29 - elapsed: 1091 ms
-[2026-06-11 10:58:22] Starting request 30
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '32fd5e2a-92e0-4733-b5d7-b0da9aed18ec'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:23] Finished request 30 - elapsed: 996 ms
-[2026-06-11 10:58:23] Starting request 31
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'c231a051-d12b-4967-bbf4-735b1ca7414c'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:24] Finished request 31 - elapsed: 970 ms
-[2026-06-11 10:58:24] Starting request 32
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '8b744ce8-b3b3-444e-a418-1f4aec3962d3'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:25] Finished request 32 - elapsed: 1155 ms
-[2026-06-11 10:58:25] Starting request 33
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'f03b9364-e1cb-4a2b-9ea1-5e2daa272837'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:26] Finished request 33 - elapsed: 1021 ms
-[2026-06-11 10:58:26] Starting request 34
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '4dc2ecdd-3c96-48f7-93e7-44c0e5b6b372'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:27] Finished request 34 - elapsed: 999 ms
-[2026-06-11 10:58:27] Starting request 35
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '760fd085-2e67-438c-98db-6c468fa2fe6d'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:28] Finished request 35 - elapsed: 1319 ms
-[2026-06-11 10:58:28] Starting request 36
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a2a9bebb-7b52-4f92-b139-15542ac3ba33'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:30] Finished request 36 - elapsed: 1074 ms
-[2026-06-11 10:58:30] Starting request 37
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'e7ca13b7-4603-47d2-ba9d-f65cc5854f9f'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:31] Finished request 37 - elapsed: 987 ms
-[2026-06-11 10:58:31] Starting request 38
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '7cdc2053-ae83-4a14-8b43-ea4fd5f18730'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:31] Finished request 38 - elapsed: 936 ms
-[2026-06-11 10:58:31] Starting request 39
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'c192bc74-c2f4-471d-9932-11c9526d0d61'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:33] Finished request 39 - elapsed: 1102 ms
-[2026-06-11 10:58:33] Starting request 40
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'feb8b2d3-fea5-49bb-b572-6e28b2995e60'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:34] Finished request 40 - elapsed: 978 ms
-[2026-06-11 10:58:34] Starting request 41
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '373ff354-a12e-4427-9b18-4a9106349149'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:35] Finished request 41 - elapsed: 969 ms
-[2026-06-11 10:58:35] Starting request 42
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '16aefee8-fca0-4a46-9081-3b2e7c51b0c2'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:36] Finished request 42 - elapsed: 1029 ms
-[2026-06-11 10:58:36] Starting request 43
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'ee0f8f27-78a9-4a60-af68-072689ab609e'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:37] Finished request 43 - elapsed: 1069 ms
-[2026-06-11 10:58:37] Starting request 44
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'b6a79c92-ab9b-46a8-bc8b-36d0d9f5305b'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:38] Finished request 44 - elapsed: 983 ms
-[2026-06-11 10:58:38] Starting request 45
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'b1c4430b-5295-44df-bde2-2d1b1b8e6a38'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:39] Finished request 45 - elapsed: 914 ms
-[2026-06-11 10:58:39] Starting request 46
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'af7cbe5a-5307-4ef8-909c-ba879475c5b3'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:40] Finished request 46 - elapsed: 975 ms
-[2026-06-11 10:58:40] Starting request 47
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '890cda18-907d-4b18-8d13-2a2ca4192afe'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:41] Finished request 47 - elapsed: 1030 ms
-[2026-06-11 10:58:41] Starting request 48
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '799e5c31-ca7f-4f57-abf0-ccb1038bff00'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:42] Finished request 48 - elapsed: 1224 ms
-[2026-06-11 10:58:42] Starting request 49
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '55367b0d-fcfd-4494-a0a4-0a9de697138d'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:43] Finished request 49 - elapsed: 1126 ms
-[2026-06-11 10:58:43] Starting request 50
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '8ddeda0e-3760-4852-a021-152f483059aa'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:44] Finished request 50 - elapsed: 997 ms
-[2026-06-11 10:58:44] Starting request 51
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'd13b9b64-9df0-402a-9294-0fb18182881a'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:45] Finished request 51 - elapsed: 1082 ms
-[2026-06-11 10:58:45] Starting request 52
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '24cb8b6d-6280-4715-aced-cb1aebf9fb71'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:46] Finished request 52 - elapsed: 1032 ms
-[2026-06-11 10:58:46] Starting request 53
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '4658e673-0126-42a5-8850-5f986ab93bc2'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:47] Finished request 53 - elapsed: 961 ms
-[2026-06-11 10:58:47] Starting request 54
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '6514feb2-4717-4a80-af09-971ded65bdc0'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:48] Finished request 54 - elapsed: 979 ms
-[2026-06-11 10:58:48] Starting request 55
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '599d7713-985d-4888-bc71-e0ef8925bea3'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:49] Finished request 55 - elapsed: 1055 ms
-[2026-06-11 10:58:49] Starting request 56
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '5663c9de-d6ef-4948-85e9-0c8f2cbdaad4'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:50] Finished request 56 - elapsed: 1065 ms
-[2026-06-11 10:58:50] Starting request 57
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '927a9080-de35-4f7a-a52e-a7f3b93d04c9'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:51] Finished request 57 - elapsed: 988 ms
-[2026-06-11 10:58:51] Starting request 58
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '0e3236d6-2652-4d71-9c40-9a124481185a'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:52] Finished request 58 - elapsed: 973 ms
-[2026-06-11 10:58:52] Starting request 59
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '591b8a10-59cf-4f6b-8fbf-de34e01287c1'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:53] Finished request 59 - elapsed: 975 ms
-[2026-06-11 10:58:53] Starting request 60
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '13606408-097d-433c-a250-b172eddc8b1e'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:54] Finished request 60 - elapsed: 1102 ms
-[2026-06-11 10:58:54] Starting request 61
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '56e8382b-a953-43c5-be52-9a97321d33c3'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:55] Finished request 61 - elapsed: 1138 ms
-[2026-06-11 10:58:55] Starting request 62
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'ac299605-2462-4f38-a818-9314219771c8'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:56] Finished request 62 - elapsed: 994 ms
-[2026-06-11 10:58:56] Starting request 63
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '0ab771ac-91fd-4d85-bb50-e2f4e7e00f16'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:57] Finished request 63 - elapsed: 1039 ms
-[2026-06-11 10:58:57] Starting request 64
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '32654e2b-78b1-402c-9bbc-4937f2f91270'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:58] Finished request 64 - elapsed: 1017 ms
-[2026-06-11 10:58:58] Starting request 65
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '880b3151-d3bf-40db-a855-4f06ce1ec45f'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:58:59] Finished request 65 - elapsed: 913 ms
-[2026-06-11 10:58:59] Starting request 66
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '39be3ae1-fcaf-49d2-b4b9-824751cb68b3'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:00] Finished request 66 - elapsed: 1006 ms
-[2026-06-11 10:59:00] Starting request 67
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '899499a8-c81f-475f-b9f7-91003101c98e'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:01] Finished request 67 - elapsed: 1006 ms
-[2026-06-11 10:59:01] Starting request 68
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a641e599-afc7-4658-8506-18c7a3c3bec2'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:02] Finished request 68 - elapsed: 1031 ms
-[2026-06-11 10:59:02] Starting request 69
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '89176437-8a86-4340-9543-f58709db2d44'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:03] Finished request 69 - elapsed: 1028 ms
-[2026-06-11 10:59:03] Starting request 70
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'd227655f-834c-4a5b-adfc-7de51d5fae9f'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:04] Finished request 70 - elapsed: 966 ms
-[2026-06-11 10:59:04] Starting request 71
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '02dff95e-a719-454b-9ce2-6e8f0f3ed47e'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:05] Finished request 71 - elapsed: 927 ms
-[2026-06-11 10:59:05] Starting request 72
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '5ca0c1a4-a444-40e7-a212-d4c031147e30'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:06] Finished request 72 - elapsed: 992 ms
-[2026-06-11 10:59:06] Starting request 73
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'ffef9f2b-b5b6-4625-a8d4-056bd7b17fba'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:07] Finished request 73 - elapsed: 1093 ms
-[2026-06-11 10:59:07] Starting request 74
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '96b55f62-9486-494a-92c0-7f4f514077e7'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:08] Finished request 74 - elapsed: 1146 ms
-[2026-06-11 10:59:08] Starting request 75
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '0f45b456-a19e-47ca-a6a5-d695ab50d556'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:09] Finished request 75 - elapsed: 996 ms
-[2026-06-11 10:59:09] Starting request 76
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'a8dd67e1-5d33-446d-9406-6b0dcf4bd225'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:11] Finished request 76 - elapsed: 1042 ms
-[2026-06-11 10:59:11] Starting request 77
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '40cc07ba-e378-4377-8ef0-6d49f03ef019'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:11] Finished request 77 - elapsed: 891 ms
-[2026-06-11 10:59:11] Starting request 78
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '1dc951c7-a8e6-4af7-b208-d801e096d316'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:12] Finished request 78 - elapsed: 994 ms
-[2026-06-11 10:59:12] Starting request 79
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'd3836bd2-ad1b-4821-a6cb-e1501795ab88'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:13] Finished request 79 - elapsed: 987 ms
-[2026-06-11 10:59:13] Starting request 80
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': '01efdffc-d67c-4905-8473-a16651ae1253'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:14] Finished request 80 - elapsed: 873 ms
-[2026-06-11 10:59:14] Starting request 81
-Invoking agent...
-Using merged headers: {'user_id': 'agentkit_user', 'session_id': 'e2651df4-d7c4-45c0-b74c-a508ed95a3e6'}
-✅ Invocation successful
-📝 Response:
-mock message
-[2026-06-11 10:59:15] Finished request 81 - elapsed: 1016 ms
-[2026-06-11 10:59:15] Starting request 82
+[2026-06-26 11:32:49] Starting request 1
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #1)"[2026-06-26 11:32:49] Finished request 1 - elapsed: 113 ms
+[2026-06-26 11:32:49] Starting request 2
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #2)"[2026-06-26 11:32:49] Finished request 2 - elapsed: 186 ms
+[2026-06-26 11:32:49] Starting request 3
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #3)"[2026-06-26 11:32:49] Finished request 3 - elapsed: 124 ms
+[2026-06-26 11:32:49] Starting request 4
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #4)"[2026-06-26 11:32:49] Finished request 4 - elapsed: 129 ms
+[2026-06-26 11:32:49] Starting request 5
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #5)"[2026-06-26 11:32:49] Finished request 5 - elapsed: 133 ms
+[2026-06-26 11:32:49] Starting request 6
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #10)"[2026-06-26 11:32:49] Finished request 6 - elapsed: 133 ms
+[2026-06-26 11:32:49] Starting request 7
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #6)"[2026-06-26 11:32:50] Finished request 7 - elapsed: 131 ms
+[2026-06-26 11:32:50] Starting request 8
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #7)"[2026-06-26 11:32:50] Finished request 8 - elapsed: 104 ms
+[2026-06-26 11:32:50] Starting request 9
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #8)"[2026-06-26 11:32:50] Finished request 9 - elapsed: 106 ms
+[2026-06-26 11:32:50] Starting request 10
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #11)"[2026-06-26 11:32:50] Finished request 10 - elapsed: 138 ms
+[2026-06-26 11:32:50] Starting request 11
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #12)"[2026-06-26 11:32:50] Finished request 11 - elapsed: 105 ms
+[2026-06-26 11:32:50] Starting request 12
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #13)"[2026-06-26 11:32:50] Finished request 12 - elapsed: 108 ms
+[2026-06-26 11:32:50] Starting request 13
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #14)"[2026-06-26 11:32:50] Finished request 13 - elapsed: 133 ms
+[2026-06-26 11:32:50] Starting request 14
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #9)"[2026-06-26 11:32:50] Finished request 14 - elapsed: 115 ms
+[2026-06-26 11:32:50] Starting request 15
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #15)"[2026-06-26 11:32:50] Finished request 15 - elapsed: 101 ms
+[2026-06-26 11:32:50] Starting request 16
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #16)"[2026-06-26 11:32:51] Finished request 16 - elapsed: 135 ms
+[2026-06-26 11:32:51] Starting request 17
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #17)"[2026-06-26 11:32:51] Finished request 17 - elapsed: 107 ms
+[2026-06-26 11:32:51] Starting request 18
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #18)"[2026-06-26 11:32:51] Finished request 18 - elapsed: 129 ms
+[2026-06-26 11:32:51] Starting request 19
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #10)"[2026-06-26 11:32:51] Finished request 19 - elapsed: 148 ms
+[2026-06-26 11:32:51] Starting request 20
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #19)"[2026-06-26 11:32:51] Finished request 20 - elapsed: 112 ms
+[2026-06-26 11:32:51] Starting request 21
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #51)"[2026-06-26 11:32:51] Finished request 21 - elapsed: 112 ms
+[2026-06-26 11:32:51] Starting request 22
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #52)"[2026-06-26 11:32:51] Finished request 22 - elapsed: 127 ms
+[2026-06-26 11:32:51] Starting request 23
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #53)"[2026-06-26 11:32:51] Finished request 23 - elapsed: 122 ms
+[2026-06-26 11:32:51] Starting request 24
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #11)"[2026-06-26 11:32:52] Finished request 24 - elapsed: 110 ms
+[2026-06-26 11:32:52] Starting request 25
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #12)"[2026-06-26 11:32:52] Finished request 25 - elapsed: 116 ms
+[2026-06-26 11:32:52] Starting request 26
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #13)"[2026-06-26 11:32:52] Finished request 26 - elapsed: 108 ms
+[2026-06-26 11:32:52] Starting request 27
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #14)"[2026-06-26 11:32:52] Finished request 27 - elapsed: 103 ms
+[2026-06-26 11:32:52] Starting request 28
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #20)"[2026-06-26 11:32:52] Finished request 28 - elapsed: 119 ms
+[2026-06-26 11:32:52] Starting request 29
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #21)"[2026-06-26 11:32:52] Finished request 29 - elapsed: 131 ms
+[2026-06-26 11:32:52] Starting request 30
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #15)"[2026-06-26 11:32:52] Finished request 30 - elapsed: 100 ms
+[2026-06-26 11:32:52] Starting request 31
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #22)"[2026-06-26 11:32:52] Finished request 31 - elapsed: 115 ms
+[2026-06-26 11:32:52] Starting request 32
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #54)"[2026-06-26 11:32:52] Finished request 32 - elapsed: 101 ms
+[2026-06-26 11:32:52] Starting request 33
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #55)"[2026-06-26 11:32:53] Finished request 33 - elapsed: 115 ms
+[2026-06-26 11:32:53] Starting request 34
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #23)"[2026-06-26 11:32:53] Finished request 34 - elapsed: 122 ms
+[2026-06-26 11:32:53] Starting request 35
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #56)"[2026-06-26 11:32:53] Finished request 35 - elapsed: 127 ms
+[2026-06-26 11:32:53] Starting request 36
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #57)"[2026-06-26 11:32:53] Finished request 36 - elapsed: 96 ms
+[2026-06-26 11:32:53] Starting request 37
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #16)"[2026-06-26 11:32:53] Finished request 37 - elapsed: 108 ms
+[2026-06-26 11:32:53] Starting request 38
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #24)"[2026-06-26 11:32:53] Finished request 38 - elapsed: 105 ms
+[2026-06-26 11:32:53] Starting request 39
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #17)"[2026-06-26 11:32:53] Finished request 39 - elapsed: 108 ms
+[2026-06-26 11:32:53] Starting request 40
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #58)"[2026-06-26 11:32:53] Finished request 40 - elapsed: 109 ms
+[2026-06-26 11:32:53] Starting request 41
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #25)"[2026-06-26 11:32:53] Finished request 41 - elapsed: 102 ms
+[2026-06-26 11:32:53] Starting request 42
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #18)"[2026-06-26 11:32:54] Finished request 42 - elapsed: 102 ms
+[2026-06-26 11:32:54] Starting request 43
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #56)"[2026-06-26 11:32:54] Finished request 43 - elapsed: 102 ms
+[2026-06-26 11:32:54] Starting request 44
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #57)"[2026-06-26 11:32:54] Finished request 44 - elapsed: 102 ms
+[2026-06-26 11:32:54] Starting request 45
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #19)"[2026-06-26 11:32:54] Finished request 45 - elapsed: 98 ms
+[2026-06-26 11:32:54] Starting request 46
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #20)"[2026-06-26 11:32:54] Finished request 46 - elapsed: 122 ms
+[2026-06-26 11:32:54] Starting request 47
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #58)"[2026-06-26 11:32:54] Finished request 47 - elapsed: 101 ms
+[2026-06-26 11:32:54] Starting request 48
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #26)"[2026-06-26 11:32:54] Finished request 48 - elapsed: 117 ms
+[2026-06-26 11:32:54] Starting request 49
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #59)"[2026-06-26 11:32:54] Finished request 49 - elapsed: 122 ms
+[2026-06-26 11:32:54] Starting request 50
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #59)"[2026-06-26 11:32:54] Finished request 50 - elapsed: 110 ms
+[2026-06-26 11:32:54] Starting request 51
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #21)"[2026-06-26 11:32:55] Finished request 51 - elapsed: 120 ms
+[2026-06-26 11:32:55] Starting request 52
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #22)"[2026-06-26 11:32:55] Finished request 52 - elapsed: 106 ms
+[2026-06-26 11:32:55] Starting request 53
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #27)"[2026-06-26 11:32:55] Finished request 53 - elapsed: 121 ms
+[2026-06-26 11:32:55] Starting request 54
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #60)"[2026-06-26 11:32:55] Finished request 54 - elapsed: 132 ms
+[2026-06-26 11:32:55] Starting request 55
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #23)"[2026-06-26 11:32:55] Finished request 55 - elapsed: 95 ms
+[2026-06-26 11:32:55] Starting request 56
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #28)"[2026-06-26 11:32:55] Finished request 56 - elapsed: 118 ms
+[2026-06-26 11:32:55] Starting request 57
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #61)"[2026-06-26 11:32:55] Finished request 57 - elapsed: 105 ms
+[2026-06-26 11:32:55] Starting request 58
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #29)"[2026-06-26 11:32:55] Finished request 58 - elapsed: 102 ms
+[2026-06-26 11:32:55] Starting request 59
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #62)"[2026-06-26 11:32:56] Finished request 59 - elapsed: 130 ms
+[2026-06-26 11:32:56] Starting request 60
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #60)"[2026-06-26 11:32:56] Finished request 60 - elapsed: 106 ms
+[2026-06-26 11:32:56] Starting request 61
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #61)"[2026-06-26 11:32:56] Finished request 61 - elapsed: 115 ms
+[2026-06-26 11:32:56] Starting request 62
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #62)"[2026-06-26 11:32:56] Finished request 62 - elapsed: 115 ms
+[2026-06-26 11:32:56] Starting request 63
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #63)"[2026-06-26 11:32:56] Finished request 63 - elapsed: 103 ms
+[2026-06-26 11:32:56] Starting request 64
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #64)"[2026-06-26 11:32:56] Finished request 64 - elapsed: 132 ms
+[2026-06-26 11:32:56] Starting request 65
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #24)"[2026-06-26 11:32:56] Finished request 65 - elapsed: 111 ms
+[2026-06-26 11:32:56] Starting request 66
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #30)"[2026-06-26 11:32:56] Finished request 66 - elapsed: 129 ms
+[2026-06-26 11:32:56] Starting request 67
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #65)"[2026-06-26 11:32:56] Finished request 67 - elapsed: 133 ms
+[2026-06-26 11:32:56] Starting request 68
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #66)"[2026-06-26 11:32:58] Finished request 68 - elapsed: 1792 ms
+[2026-06-26 11:32:58] Starting request 69
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #31)"[2026-06-26 11:32:58] Finished request 69 - elapsed: 125 ms
+[2026-06-26 11:32:58] Starting request 70
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #32)"[2026-06-26 11:32:59] Finished request 70 - elapsed: 127 ms
+[2026-06-26 11:32:59] Starting request 71
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #63)"[2026-06-26 11:32:59] Finished request 71 - elapsed: 114 ms
+[2026-06-26 11:32:59] Starting request 72
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #64)"[2026-06-26 11:32:59] Finished request 72 - elapsed: 123 ms
+[2026-06-26 11:32:59] Starting request 73
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #65)"[2026-06-26 11:32:59] Finished request 73 - elapsed: 122 ms
+[2026-06-26 11:32:59] Starting request 74
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #66)"[2026-06-26 11:32:59] Finished request 74 - elapsed: 112 ms
+[2026-06-26 11:32:59] Starting request 75
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #25)"[2026-06-26 11:32:59] Finished request 75 - elapsed: 112 ms
+[2026-06-26 11:32:59] Starting request 76
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #26)"[2026-06-26 11:32:59] Finished request 76 - elapsed: 107 ms
+[2026-06-26 11:32:59] Starting request 77
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #27)"[2026-06-26 11:32:59] Finished request 77 - elapsed: 103 ms
+[2026-06-26 11:32:59] Starting request 78
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #67)"[2026-06-26 11:32:59] Finished request 78 - elapsed: 114 ms
+[2026-06-26 11:32:59] Starting request 79
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #28)"[2026-06-26 11:33:00] Finished request 79 - elapsed: 101 ms
+[2026-06-26 11:33:00] Starting request 80
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #68)"[2026-06-26 11:33:00] Finished request 80 - elapsed: 111 ms
+[2026-06-26 11:33:00] Starting request 81
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #33)"[2026-06-26 11:33:00] Finished request 81 - elapsed: 253 ms
+[2026-06-26 11:33:00] Starting request 82
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #69)"[2026-06-26 11:33:01] Finished request 82 - elapsed: 1141 ms
+[2026-06-26 11:33:01] Starting request 83
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #67)"[2026-06-26 11:33:01] Finished request 83 - elapsed: 154 ms
+[2026-06-26 11:33:01] Starting request 84
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #70)"[2026-06-26 11:33:01] Finished request 84 - elapsed: 115 ms
+[2026-06-26 11:33:01] Starting request 85
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #71)"[2026-06-26 11:33:01] Finished request 85 - elapsed: 103 ms
+[2026-06-26 11:33:01] Starting request 86
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #72)"[2026-06-26 11:33:02] Finished request 86 - elapsed: 133 ms
+[2026-06-26 11:33:02] Starting request 87
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #29)"[2026-06-26 11:33:02] Finished request 87 - elapsed: 128 ms
+[2026-06-26 11:33:02] Starting request 88
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #73)"[2026-06-26 11:33:02] Finished request 88 - elapsed: 105 ms
+[2026-06-26 11:33:02] Starting request 89
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #74)"[2026-06-26 11:33:02] Finished request 89 - elapsed: 111 ms
+[2026-06-26 11:33:02] Starting request 90
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uv519e95toqnjv5irg (request #34)"[2026-06-26 11:33:02] Finished request 90 - elapsed: 117 ms
+[2026-06-26 11:33:02] Starting request 91
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #75)"[2026-06-26 11:33:02] Finished request 91 - elapsed: 109 ms
+[2026-06-26 11:33:02] Starting request 92
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #76)"[2026-06-26 11:33:02] Finished request 92 - elapsed: 105 ms
+[2026-06-26 11:33:02] Starting request 93
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #77)"[2026-06-26 11:33:02] Finished request 93 - elapsed: 139 ms
+[2026-06-26 11:33:02] Starting request 94
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #78)"[2026-06-26 11:33:03] Finished request 94 - elapsed: 115 ms
+[2026-06-26 11:33:03] Starting request 95
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #68)"[2026-06-26 11:33:03] Finished request 95 - elapsed: 97 ms
+[2026-06-26 11:33:03] Starting request 96
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-cd2wx (request #69)"[2026-06-26 11:33:03] Finished request 96 - elapsed: 101 ms
+[2026-06-26 11:33:03] Starting request 97
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #30)"[2026-06-26 11:33:03] Finished request 97 - elapsed: 108 ms
+[2026-06-26 11:33:03] Starting request 98
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #79)"[2026-06-26 11:33:03] Finished request 98 - elapsed: 109 ms
+[2026-06-26 11:33:03] Starting request 99
+"mock message from vefaas-tsy4t02h-4q8bua7bk6-d8uura3m6c5ik6a1mdtg (request #80)"[2026-06-26 11:33:03] Finished request 99 - elapsed: 99 ms
+[2026-06-26 11:33:03] Starting request 100
+"mock message from tsy4t02h-4q8bua7bk6-5fc58bd544-ckskc (request #31)"[2026-06-26 11:33:03] Finished request 100 - elapsed: 101 ms

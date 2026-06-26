@@ -13,6 +13,8 @@
 # limitations under the License.
 
 import logging
+import socket
+import threading
 
 from veadk import Agent, Runner
 
@@ -24,6 +26,10 @@ logger.setLevel(logging.INFO)
 
 
 app = AgentkitSimpleApp()
+
+_counter_lock = threading.Lock()
+_request_counter = 0
+_hostname = socket.gethostname()
 
 agent_name = "Agent"
 description = DEFAULT_DESCRIPTION 
@@ -55,7 +61,11 @@ async def run(payload: dict, headers: dict) -> str:
     #    f"Running agent with prompt: {prompt}, user_id: {user_id}, session_id: {session_id}"
     #)
     #response = await runner.run(messages=prompt, user_id=user_id, session_id=session_id)
-    response = "mock message"
+    global _request_counter
+    with _counter_lock:
+        _request_counter += 1
+        current_count = _request_counter
+    response = f"mock message from {_hostname} (request #{current_count})"
 
     logger.info(f"Run response: {response}")
     return response
