@@ -5,11 +5,11 @@ for i in $(seq 1 100); do
   start=$(date +%s%3N)
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] Starting request $i"
 
-  curl  https://sd8uudap8n39pibr69fs0.apigateway-cn-beijing.volceapi.com/invoke -XPOST \
+  curl  https://sd8v04vhrjmurblmekv90.apigateway-cn-beijing.volceapi.com/invoke -XPOST \
     -H "Content-Type: application/json" \
     -H "session_id: haolipeng" \
     -H "user_id: haolipeng" \
-    -H "Authorization: Bearer R--Lwow2JxGko3nDWIqM--GGU_gkoUQPcfM1" \
+    -H "Authorization: Bearer Lt8ATkKpXhCilXKYX_jdUsocwBvhKOexFLuB" \
     -d '{"prompt": "你是谁"}'
 
   end=$(date +%s%3N)
